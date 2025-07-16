@@ -1,0 +1,16 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Additional information;Situation;Level;Depth
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Cromo;-;=;12;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Zinc;-;=;51;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Plomo;-;=;13;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Níquel;-;=;5;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;% Limo/Arcilla;-;=;0.06;%;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Cobre;-;<;5;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;% Materia orgánica;-;=;0.81;%;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Cadmio;-;<;0.05;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;% Humedad;-;=;25.377;%;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Manganeso;-;=;287;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Potencial Redox;-;=;335;mV;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Hierro;-;=;13466;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;% Grava;-;=;0.42;%;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;Mercurio;-;<;0.05;mg/kg PS;;-;-;0
+L-OI20;06/02/2025;13:25;LITORALES;Sedimentos;% Arena;-;=;99.52;%;;-;-;0

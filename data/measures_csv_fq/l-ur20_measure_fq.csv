@@ -1,0 +1,130 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Additional information;Situation;Level;Depth
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Perileno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Monobutilestaño;-;<;10000;ng/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Níquel;-;=;18;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Cobre;-;=;14;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Plomo;-;=;25;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Zinc;-;=;82;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Cromo;-;=;28;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Mercurio;-;=;0.1;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Hierro;-;=;23919;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Manganeso;-;=;412;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Cadmio;-;=;0.08;mg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;% Arena;-;=;94.96;%;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;% Grava;-;=;0.16;%;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Potencial Redox;-;=;329;mV;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;% Humedad;-;=;29.941;%;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;% Materia orgánica;-;=;0.91;%;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;% Limo/Arcilla;-;=;4.88;%;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB138;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Acenafteno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(g.h.i)perileno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Indeno(1.2.3-cd)pireno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Acenaftileno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(k)fluoranteno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Naftaleno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Antraceno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Criseno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(a)pireno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Fenantreno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Pireno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(b)fluoranteno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Fluoranteno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Fluoreno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(e)pireno;-;=;20;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB153;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB180;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;p-p' DDD;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB52;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB101;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB118;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;p-p' DDE;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Benzo(a)antraceno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Dibenzo(a.h)antraceno;-;<;10;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;p.p-DDT;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Dibutilestaño;-;<;10000;ng/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Tributilestaño;-;<;10000;ng/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;alfa-HCH;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Gamma-HCH (Lindano);-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;beta-HCH;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;delta-HCH;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Hexaclorobenceno;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Aldrin;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Dieldrin;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Isodrin;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Endrin;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;o-p' DDT;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;Epsilon-HCH;-;<;1;µg/kg PS;;-;-;0
+L-UR20;20/02/2025;10:28;LITORALES;Sedimentos;PCB28;-;<;1;µg/kg PS;;-;-;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Disco de Secchi;-;=;6;m;;L;-;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Profundidad máxima;-;=;38;m;;L;-;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;13.73;ºC;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Temperatura del agua;-;=;13.78;ºC;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);pH;-;=;8.12;U. pH.;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);pH;-;=;8.14;U. pH.;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);% Transmisión de luz;-;=;84.1;%;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);% Transmisión de luz;-;=;85.7;%;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;7.99;mg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Oxígeno disuelto;-;=;8.09;mg/l;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);% Saturación de oxígeno;-;=;95.9;%;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);% Saturación de oxígeno;-;=;97.3;%;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Salinidad;-;=;35.14;USP;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Salinidad;-;=;35.19;USP;;L;F;-25
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Terbutilazina;-;<;0.01;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Parafinas cloradas (Cloroalcanos(C10-C13));-;<;0.2;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Clorpirifós (Clorpirifós etil);-;<;0.005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Pentaclorobenceno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Trifluralina;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Endosulfán;-;<;0.001;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Endosulfan II (beta-endosulfan);-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);o-p' DDT;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Cobre;-;<;5;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Acenaftileno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(k)fluoranteno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Naftaleno;-;<;0.01;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Antraceno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Criseno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Cromo;-;<;5;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Hierro;-;<;0.01;mg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Manganeso;-;<;0.01;mg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Níquel;-;<;2.6;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Plomo;-;<;0.39;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Zinc;-;<;9;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(a)antraceno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Dibenzo(a.h)antraceno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Acenafteno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(g.h.i)perileno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Indeno(1.2.3-cd)pireno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(a)pireno;-;<;0.00017;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);p.p-DDT;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Dieldrin;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Endosulfan I (alfa-endosulfan);-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);alfa-HCH;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);beta-HCH;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Endrin;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Fenantreno;-;=;0.0007;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Pireno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(b)fluoranteno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Fluoranteno;-;=;0.0006;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Benzo(e)pireno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Fluoreno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Aclonifeno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Bifenox;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Aldrin;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);p-p' DDD;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);p-p' DDE;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Hexaclorobenceno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Epsilon-HCH;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Gamma-HCH (Lindano);-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Mercurio;-;<;0.015;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Cadmio;-;<;0.06;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Perileno;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);delta-HCH;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Isodrin;-;<;0.0005;µg/l;;L;S;0
+L-UR20;10/01/2025;8:14;LITORALES;Aguas (Fisicoquímica);Atrazina;-;<;0.01;µg/l;;L;S;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;Potencial Redox;-;=;293;mV;;-;-;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;% Humedad;-;=;28.875;%;;-;-;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;% Materia orgánica;-;=;2.7;%;;-;-;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;% Limo/Arcilla;-;=;2.82;%;;-;-;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;% Arena;-;=;97.15;%;;-;-;0
+L-UR20;06/02/2025;14:15;LITORALES;Sedimentos;% Grava;-;=;0.03;%;;-;-;0

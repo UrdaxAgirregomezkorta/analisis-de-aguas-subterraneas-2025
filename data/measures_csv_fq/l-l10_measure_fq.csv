@@ -1,0 +1,16 @@
+Sample Point Code;Date;Hour;Type;Subgroup;Parameter;Species;Operator;Value;Unit;Additional information;Situation;Level;Depth
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Potencial Redox;-;=;363;mV;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;% Grava;-;=;7.14;%;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;% Materia orgánica;-;=;1.39;%;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Cadmio;-;=;0.08;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Cobre;-;=;13;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Níquel;-;=;13;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Plomo;-;=;26;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Zinc;-;=;71;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Cromo;-;=;18;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Mercurio;-;=;0.22;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Hierro;-;=;25516;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;Manganeso;-;=;428;mg/kg PS;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;% Limo/Arcilla;-;=;0.04;%;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;% Arena;-;=;92.82;%;;-;-;0
+L-L10;10/03/2025;11:00;LITORALES;Sedimentos;% Humedad;-;=;22.024;%;;-;-;0
