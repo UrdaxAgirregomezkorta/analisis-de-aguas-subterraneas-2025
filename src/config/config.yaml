@@ -1,4 +1,4 @@
 # Input data paths (cambiar a las rutas correctas)
-sample_path: ..\..\Mahaigainea\urak-analisis\data\samplePoints
+sample_path: ..\data\samplePoints.csv
 
 
