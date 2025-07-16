@@ -1,4 +1,4 @@
-# urak-analisis
+# Análisis de aguas subterraneas 2025
 
 Este repositorio contiene los notebooks y scripts relativos al análisis de aguas subterráneas de Euskadi durante el 2025.
 
