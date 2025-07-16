@@ -6,4 +6,4 @@ Este repositorio contiene los notebooks y scripts relativos al análisis de agua
 
 Los datos han sido descargados en open data euskadi. 
 
-URL:https://opendata.euskadi.eus/catalogo/-/calidad-de-las-aguas-subterraneas-en-euskadi-durante-el-2025/
+URL : https://opendata.euskadi.eus/catalogo/-/calidad-de-las-aguas-subterraneas-en-euskadi-durante-el-2025/
